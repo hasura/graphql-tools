@@ -1,7 +1,7 @@
 {
-  "name": "graphql-tools",
+  "name": "graphql-tools-with-subscriptions",
   "version": "3.1.1",
-  "description": "Useful tools to create and manipulate GraphQL schemas.",
+  "description": "Useful tools to create and manipulate GraphQL schemas. Temporary fork for making graphql-tools work with Hasura subscriptions. This can be used till pull-request-928 is merged",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "typescript": {
